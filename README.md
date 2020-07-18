@@ -9,15 +9,19 @@ la interfaz y la lógica de control en tres componentes distintos.
 -El Controlador, que actúa como intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos y las transformaciones 
 para adaptar los datos a las necesidades de cada uno.
 
-El programa utiliza como ORM a Entity Framework 
-
-
-
-
-
-
 
 Para este proyecto utilizamos Clases netamente con los conceptos de "POO"
+El programa utiliza como ORM a Entity Framework (EF)
+Entity Framework es el ORM principal que Microsoft proporciona para .NET Framework y la tecnología de acceso a datos recomendada por Microsoft.
+
+
+El en proyecto aplicamos una confirmación de correos que es asociada con SENDGIRD y documentación oficial de microsoft https://docs.microsoft.com/en-us/aspnet/core/security/authentication/accconfirm?view=aspnetcore-3.1&tabs=visual-studio
+
+-SENDGRID.Es un servicio o plataforma que permite el envío transaccional de correos electrónicos de forma masiva.
+
+
+
+
 
 
  
